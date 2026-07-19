@@ -25,7 +25,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 
 <!-- STATS:START -->
 
-> Method: per repo run `git fetch --all && git log --all --no-merges --numstat --pretty=format:'@%aN'` (all branches, incl. unmerged), sum added/removed per author (no alias merge), sorted by Net LoC.
+> Method: per repo run `git log --all --no-merges --numstat --pretty=format:'@%aN'` (all branches, incl. unmerged), sum added/removed per author (no alias merge), sorted by Net LoC.
 
 <details><summary><b>s360-backend</b> — 22 authors</summary>
 
@@ -47,7 +47,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | 22120197 | 2234 | 208 | 2026 |
 | phatnguyen1906 | 2064 | 275 | 1789 |
 | NKhank11 | 700 | 32 | 668 |
-| kiin21 | 134 | 123 | 11 |
+| kiin21 | 136 | 123 | 13 |
 | Anwirismee | 1 | 12 | -11 |
 | Nguyen Phan Duc Khai | 12 | 178 | -166 |
 | Huỳnh Tấn Lộc | 2634 | 6192 | -3558 |
@@ -97,7 +97,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | BrianTrac | 468 | 6 | 462 |
 | 22120186 | 405 | 30 | 375 |
 | Pham Dao Anh Khoa | 34 | 1 | 33 |
-| kiin21 | 19 | 0 | 19 |
+| kiin21 | 22 | 2 | 20 |
 | PhamGiaKhiem | 20436 | 21329 | -893 |
 | khoapda | 41017 | 42460 | -1443 |
 | khiempham123 | 6390 | 9823 | -3433 |
@@ -140,7 +140,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | khoapda | 115 | 1 | 114 |
 | Nguyễn Anh Hào | 17 | 0 | 17 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
-| s360-cicd | 2 | 2 | 0 |
+| s360-cicd | 3 | 3 | 0 |
 
 </details>
 

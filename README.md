@@ -1,3 +1,3 @@
 # .github
 
-Services monitoring page: https://status.api-backend.me/
+Services monitoring page: https://status.api-backend.me

@@ -19,7 +19,7 @@ jobs:
         with:
           token: ${{ secrets.STATS_TOKEN }}
 
-      - name: Compute LoC per author across repos
+      - name: Compute LoC per author, per repo
         env:
           GH_TOKEN: ${{ secrets.STATS_TOKEN }}
         run: |
@@ -28,10 +28,14 @@ jobs:
           for r in $REPOS; do
             git clone --quiet "https://x-access-token:${GH_TOKEN}@github.com/DATN-HCMUS/$r.git" "$tmp/$r" 2>/dev/null || echo "skip $r"
           done
-          python3 - "$tmp" $REPOS > stats_table.md <<'PY'
+          python3 - "$tmp" $REPOS > stats_block.md <<'PY'
           import sys, subprocess, os
           base, repos = sys.argv[1], sys.argv[2:]
-          agg = {}
+          cmd = "git log --no-merges --numstat --pretty=format:'@%aN'"
+          lines = [
+              f"> Cách tính: với mỗi repo chạy `{cmd}`, cộng dồn *added/removed* theo tác giả "
+              "(không gộp alias), sắp xếp theo Net LoC.\n",
+          ]
           for r in repos:
               d = os.path.join(base, r)
               if not os.path.isdir(d):
@@ -39,7 +43,7 @@ jobs:
               out = subprocess.run(
                   ['git', '-C', d, 'log', '--no-merges', '--numstat', '--pretty=format:@%aN'],
                   capture_output=True, text=True).stdout
-              author = None
+              agg, author = {}, None
               for line in out.splitlines():
                   if line.startswith('@'):
                       author = line[1:].strip()
@@ -48,20 +52,23 @@ jobs:
                       if len(p) >= 2 and p[0].isdigit() and p[1].isdigit():
                           a = agg.setdefault(author, [0, 0])
                           a[0] += int(p[0]); a[1] += int(p[1])
-          rows = sorted(agg.items(), key=lambda kv: kv[1][0] - kv[1][1], reverse=True)
-          print("| Author | Added | Removed | Net LoC |")
-          print("|---|--:|--:|--:|")
-          for name, (add, rem) in rows:
-              print(f"| {name} | {add} | {rem} | {add - rem} |")
+              rows = sorted(agg.items(), key=lambda kv: kv[1][0] - kv[1][1], reverse=True)
+              lines.append(f"<details><summary><b>{r}</b> — {len(rows)} authors</summary>\n")
+              lines.append("| Author | Added | Removed | Net LoC |")
+              lines.append("|---|--:|--:|--:|")
+              for name, (add, rem) in rows:
+                  lines.append(f"| {name} | {add} | {rem} | {add - rem} |")
+              lines.append("\n</details>\n")
+          print("\n".join(lines))
           PY
 
-      - name: Inject table into profile/README.md
+      - name: Inject into profile/README.md
         run: |
           python3 - <<'PY'
           import re
-          table = open('stats_table.md').read().strip()
+          block_body = open('stats_block.md').read().strip()
           readme = open('profile/README.md').read()
-          block = "<!-- STATS:START -->\n\n" + table + "\n\n<!-- STATS:END -->"
+          block = "<!-- STATS:START -->\n\n" + block_body + "\n\n<!-- STATS:END -->"
           new = re.sub(r"<!-- STATS:START -->.*?<!-- STATS:END -->",
                        lambda _m: block, readme, flags=re.S)
           open('profile/README.md', 'w').write(new)

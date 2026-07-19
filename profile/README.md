@@ -7,7 +7,7 @@ Kết nối sinh viên với việc làm bằng AI matching, quản lý hồ sơ
 
 | Repo | Vai trò | Stack |
 |------|---------|-------|
-| **s360-backend** | REST API lõi | NestJS · TypeORM · PostgreSQL · BullMQ/Redis |
+| **s360-backend** | REST API core | NestJS · TypeORM · PostgreSQL · BullMQ/Redis |
 | **s360-ai** | AI gateway & chatbot | FastAPI |
 | **s360-career-ai** | AI matching job ↔ candidate | Embeddings · Knowledge Graph (Neo4j) · pgvector |
 | **s360-web-admin** | Cổng HR / admin | React · Cloudflare Pages |

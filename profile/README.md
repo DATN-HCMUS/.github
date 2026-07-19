@@ -56,7 +56,7 @@ Kết nối sinh viên với việc làm bằng AI matching, quản lý hồ sơ
 
 </details>
 
-<details><summary><b>s360-frontend</b> — 19 authors</summary>
+<details><summary><b>s360-frontend</b> — 20 authors</summary>
 
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
@@ -76,6 +76,7 @@ Kết nối sinh viên với việc làm bằng AI matching, quản lý hồ sơ
 | Phạm Gia Khiêm | 292 | 31 | 261 |
 | khoapda | 154 | 12 | 142 |
 | TPL | 1275 | 1182 | 93 |
+| Pham Dao Anh Khoa | 11 | 0 | 11 |
 | NKhank11 | 1 | 1 | 0 |
 | Nguyễn Vĩnh Lương | 1089 | 3349 | -2260 |
 | PhamGiaKhiem | 42378 | 48072 | -5694 |
@@ -95,7 +96,7 @@ Kết nối sinh viên với việc làm bằng AI matching, quản lý hồ sơ
 | NKhank11 | 1154 | 315 | 839 |
 | BrianTrac | 468 | 6 | 462 |
 | 22120186 | 405 | 30 | 375 |
-| Pham Dao Anh Khoa | 23 | 1 | 22 |
+| Pham Dao Anh Khoa | 34 | 1 | 33 |
 | kiin21 | 19 | 0 | 19 |
 | khoapda | 38148 | 38734 | -586 |
 | PhamGiaKhiem | 18954 | 20780 | -1826 |
@@ -110,7 +111,7 @@ Kết nối sinh viên với việc làm bằng AI matching, quản lý hồ sơ
 | khoapda | 54807 | 13863 | 40944 |
 | copilot-swe-agent[bot] | 64 | 1 | 63 |
 | kiin21 | 35 | 0 | 35 |
-| Pham Dao Anh Khoa | 566 | 671 | -105 |
+| Pham Dao Anh Khoa | 577 | 671 | -94 |
 
 </details>
 
@@ -130,32 +131,35 @@ Kết nối sinh viên với việc làm bằng AI matching, quản lý hồ sơ
 
 </details>
 
-<details><summary><b>s360-gitops</b> — 4 authors</summary>
+<details><summary><b>s360-gitops</b> — 5 authors</summary>
 
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
 | kiin21 | 461 | 135 | 326 |
 | khoapda | 115 | 1 | 114 |
 | Nguyễn Anh Hào | 17 | 0 | 17 |
+| Pham Dao Anh Khoa | 11 | 0 | 11 |
 | s360-cicd | 2 | 2 | 0 |
 
 </details>
 
-<details><summary><b>s360-devops</b> — 2 authors</summary>
+<details><summary><b>s360-devops</b> — 3 authors</summary>
 
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
 | khoapda | 649 | 226 | 423 |
 | kiin21 | 118 | 86 | 32 |
+| Pham Dao Anh Khoa | 11 | 0 | 11 |
 
 </details>
 
-<details><summary><b>s360-iac</b> — 2 authors</summary>
+<details><summary><b>s360-iac</b> — 3 authors</summary>
 
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
 | khoapda | 382 | 43 | 339 |
 | kiin21 | 177 | 1 | 176 |
+| Pham Dao Anh Khoa | 11 | 0 | 11 |
 
 </details>
 

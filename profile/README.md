@@ -60,7 +60,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
-| Nguyễn Anh Hào | 151132 | 78639 | 72493 |
+| Nguyễn Anh Hào | 151707 | 78971 | 72736 |
 | phatnguyen1906 | 51488 | 14042 | 37446 |
 | Võ Hoàng Nguyên | 32770 | 10651 | 22119 |
 | BrianTrac | 29403 | 16002 | 13401 |
@@ -93,10 +93,10 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | phatnguyen1906 | 23481 | 17575 | 5906 |
 | eNKay | 3952 | 157 | 3795 |
 | mainhatnam219 | 2747 | 432 | 2315 |
-| NKhank11 | 1154 | 315 | 839 |
+| NKhank11 | 1191 | 317 | 874 |
 | BrianTrac | 468 | 6 | 462 |
 | 22120186 | 405 | 30 | 375 |
-| kiin21 | 113 | 45 | 68 |
+| kiin21 | 146 | 79 | 67 |
 | Pham Dao Anh Khoa | 34 | 1 | 33 |
 | PhamGiaKhiem | 20436 | 21329 | -893 |
 | khoapda | 41017 | 42460 | -1443 |

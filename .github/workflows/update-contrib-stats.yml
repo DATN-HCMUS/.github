@@ -31,17 +31,17 @@ jobs:
           python3 - "$tmp" $REPOS > stats_block.md <<'PY'
           import sys, subprocess, os
           base, repos = sys.argv[1], sys.argv[2:]
-          cmd = "git log --no-merges --numstat --pretty=format:'@%aN'"
+          cmd = "git log --all --no-merges --numstat --pretty=format:'@%aN'"
           lines = [
-              f"> Cách tính: với mỗi repo chạy `{cmd}`, cộng dồn *added/removed* theo tác giả "
-              "(không gộp alias), sắp xếp theo Net LoC.\n",
+              f"> Method: per repo run `{cmd}` (all branches, incl. unmerged), "
+              "sum added/removed per author (no alias merge), sorted by Net LoC.\n",
           ]
           for r in repos:
               d = os.path.join(base, r)
               if not os.path.isdir(d):
                   continue
               out = subprocess.run(
-                  ['git', '-C', d, 'log', '--no-merges', '--numstat', '--pretty=format:@%aN'],
+                  ['git', '-C', d, 'log', '--all', '--no-merges', '--numstat', '--pretty=format:@%aN'],
                   capture_output=True, text=True).stdout
               agg, author = {}, None
               for line in out.splitlines():

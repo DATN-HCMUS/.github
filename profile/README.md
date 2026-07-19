@@ -46,11 +46,11 @@ Kết nối sinh viên với việc làm bằng AI matching, quản lý hồ sơ
 | 22120209 | 3949 | 2280 | 1669 |
 | khiempham123 | 12291 | 10633 | 1658 |
 | NKhank11 | 1855 | 348 | 1507 |
-| kiin21 | 934 | 345 | 589 |
+| kiin21 | 944 | 345 | 599 |
 | Phạm Gia Khiêm | 292 | 31 | 261 |
 | minh huynh | 229 | 31 | 198 |
 | TPL | 1275 | 1182 | 93 |
-| s360-cicd | 1 | 1 | 0 |
+| s360-cicd | 2 | 2 | 0 |
 | Anwirismee | 1 | 12 | -11 |
 | Nguyen Phan Duc Khai | 12 | 178 | -166 |
 | Nguyễn Vĩnh Lương | 1089 | 3349 | -2260 |

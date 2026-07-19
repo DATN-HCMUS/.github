@@ -20,3 +20,11 @@ Kết nối sinh viên với việc làm bằng AI matching, quản lý hồ sơ
 - **AWS** — EC2 (k3s), RDS PostgreSQL · **RunPod** — GPU cho AI matching
 
 📊 **Service health:** https://status.api-backend.me
+
+## Contributors (LoC by author, auto-updated)
+
+<!-- STATS:START -->
+
+_updating…_
+
+<!-- STATS:END -->

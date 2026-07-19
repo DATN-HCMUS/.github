@@ -1,0 +1,74 @@
+name: Update contribution stats
+
+on:
+  repository_dispatch:
+    types: [stats]
+  workflow_dispatch:
+  schedule:
+    - cron: "0 18 * * *"
+
+concurrency:
+  group: contrib-stats
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compute LoC per author across repos
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: |
+          REPOS="s360-backend s360-frontend s360-web-admin s360-career-ai s360-ai s360-gitops s360-devops s360-iac"
+          tmp=$(mktemp -d)
+          for r in $REPOS; do
+            git clone --quiet "https://x-access-token:${GH_TOKEN}@github.com/DATN-HCMUS/$r.git" "$tmp/$r" 2>/dev/null || echo "skip $r"
+          done
+          python3 - "$tmp" $REPOS > stats_table.md <<'PY'
+          import sys, subprocess, os
+          base, repos = sys.argv[1], sys.argv[2:]
+          agg = {}
+          for r in repos:
+              d = os.path.join(base, r)
+              if not os.path.isdir(d):
+                  continue
+              out = subprocess.run(
+                  ['git', '-C', d, 'log', '--no-merges', '--numstat', '--pretty=format:@%aN'],
+                  capture_output=True, text=True).stdout
+              author = None
+              for line in out.splitlines():
+                  if line.startswith('@'):
+                      author = line[1:].strip()
+                  elif author and '\t' in line:
+                      p = line.split('\t')
+                      if len(p) >= 2 and p[0].isdigit() and p[1].isdigit():
+                          a = agg.setdefault(author, [0, 0])
+                          a[0] += int(p[0]); a[1] += int(p[1])
+          rows = sorted(agg.items(), key=lambda kv: kv[1][0] - kv[1][1], reverse=True)
+          print("| Author | Added | Removed | Net LoC |")
+          print("|---|--:|--:|--:|")
+          for name, (add, rem) in rows:
+              print(f"| {name} | {add} | {rem} | {add - rem} |")
+          PY
+
+      - name: Inject table into profile/README.md
+        run: |
+          python3 - <<'PY'
+          import re
+          table = open('stats_table.md').read().strip()
+          readme = open('profile/README.md').read()
+          block = "<!-- STATS:START -->\n\n" + table + "\n\n<!-- STATS:END -->"
+          new = re.sub(r"<!-- STATS:START -->.*?<!-- STATS:END -->",
+                       lambda _m: block, readme, flags=re.S)
+          open('profile/README.md', 'w').write(new)
+          PY
+
+      - name: Commit if changed
+        run: |
+          git config user.name s360-cicd
+          git config user.email cicd@s360.dev
+          git add profile/README.md
+          git commit -m "[CICD] update contribution stats" || { echo "no change"; exit 0; }
+          git push

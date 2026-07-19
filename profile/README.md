@@ -25,7 +25,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 
 <!-- STATS:START -->
 
-> Method: per repo run `git log --all --no-merges --numstat --pretty=format:'@%aN'` (all branches, incl. unmerged), sum added/removed per author (no alias merge), sorted by Net LoC.
+> Method: per repo run `git fetch --all && git log --all --no-merges --numstat --pretty=format:'@%aN'` (all branches, incl. unmerged), sum added/removed per author (no alias merge), sorted by Net LoC.
 
 <details><summary><b>s360-backend</b> — 22 authors</summary>
 

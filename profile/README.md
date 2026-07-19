@@ -25,7 +25,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 
 <!-- STATS:START -->
 
-> Cách tính: với mỗi repo chạy `git log --no-merges --numstat --pretty=format:'@%aN'`, cộng dồn *added/removed* theo tác giả (không gộp alias), sắp xếp theo Net LoC.
+> Method: per repo run `git log --all --no-merges --numstat --pretty=format:'@%aN'` (all branches, incl. unmerged), sum added/removed per author (no alias merge), sorted by Net LoC.
 
 <details><summary><b>s360-backend</b> — 22 authors</summary>
 
@@ -61,16 +61,16 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
 | Nguyễn Anh Hào | 151132 | 78639 | 72493 |
-| phatnguyen1906 | 48267 | 13291 | 34976 |
-| Võ Hoàng Nguyên | 32340 | 10419 | 21921 |
+| phatnguyen1906 | 51488 | 14042 | 37446 |
+| Võ Hoàng Nguyên | 32770 | 10651 | 22119 |
 | BrianTrac | 29403 | 16002 | 13401 |
-| Huynh Cong Minh | 22724 | 10731 | 11993 |
-| 22120157 | 29011 | 17745 | 11266 |
-| mainhatnam219 | 12785 | 2270 | 10515 |
-| notDuyLam | 7935 | 1299 | 6636 |
-| 22120197 | 9205 | 4839 | 4366 |
-| Huỳnh Công Minh | 9094 | 6197 | 2897 |
-| khiempham123 | 3159 | 648 | 2511 |
+| Huynh Cong Minh | 25367 | 12381 | 12986 |
+| mainhatnam219 | 14948 | 2271 | 12677 |
+| notDuyLam | 14834 | 2174 | 12660 |
+| 22120157 | 29348 | 17786 | 11562 |
+| 22120197 | 13984 | 5232 | 8752 |
+| khiempham123 | 5961 | 2390 | 3571 |
+| Huỳnh Công Minh | 11579 | 9688 | 1891 |
 | 22120209 | 3949 | 2280 | 1669 |
 | eNKay | 509 | 24 | 485 |
 | Phạm Gia Khiêm | 292 | 31 | 261 |
@@ -88,8 +88,8 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
 | Nguyễn Anh Hào | 95259 | 39826 | 55433 |
-| 22120157 | 20174 | 7652 | 12522 |
-| 22120197 | 11033 | 450 | 10583 |
+| 22120157 | 20471 | 7703 | 12768 |
+| 22120197 | 12462 | 452 | 12010 |
 | phatnguyen1906 | 23481 | 17575 | 5906 |
 | eNKay | 3952 | 157 | 3795 |
 | mainhatnam219 | 2747 | 432 | 2315 |
@@ -98,8 +98,8 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | 22120186 | 405 | 30 | 375 |
 | Pham Dao Anh Khoa | 34 | 1 | 33 |
 | kiin21 | 19 | 0 | 19 |
-| khoapda | 38148 | 38734 | -586 |
-| PhamGiaKhiem | 18954 | 20780 | -1826 |
+| PhamGiaKhiem | 20436 | 21329 | -893 |
+| khoapda | 41017 | 42460 | -1443 |
 | khiempham123 | 6390 | 9823 | -3433 |
 
 </details>
@@ -115,11 +115,11 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 
 </details>
 
-<details><summary><b>s360-ai</b> — 9 authors</summary>
+<details><summary><b>s360-ai</b> — 10 authors</summary>
 
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
-| Võ Hoàng Nguyên | 26380 | 4977 | 21403 |
+| Võ Hoàng Nguyên | 38538 | 8011 | 30527 |
 | notDuyLam | 6307 | 976 | 5331 |
 | Nguyễn Anh Hào | 5147 | 508 | 4639 |
 | TNMonster | 3340 | 467 | 2873 |
@@ -128,6 +128,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | minh huynh | 229 | 31 | 198 |
 | BrianTrac | 151 | 1 | 150 |
 | khoapda | 20 | 0 | 20 |
+| kiin21 | 0 | 51 | -51 |
 
 </details>
 
@@ -135,7 +136,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
-| kiin21 | 461 | 135 | 326 |
+| kiin21 | 519 | 192 | 327 |
 | khoapda | 115 | 1 | 114 |
 | Nguyễn Anh Hào | 17 | 0 | 17 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |

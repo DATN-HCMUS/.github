@@ -46,7 +46,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | copilot-swe-agent[bot] | 2370 | 1 | 2369 |
 | 22120197 | 2234 | 208 | 2026 |
 | phatnguyen1906 | 2064 | 275 | 1789 |
-| NKhank11 | 700 | 32 | 668 |
+| NKhank11 | 981 | 94 | 887 |
 | kiin21 | 206 | 131 | 75 |
 | Anwirismee | 1 | 12 | -11 |
 | Nguyen Phan Duc Khai | 12 | 178 | -166 |
@@ -60,7 +60,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
-| Nguyễn Anh Hào | 151707 | 78971 | 72736 |
+| Nguyễn Anh Hào | 152144 | 79005 | 73139 |
 | phatnguyen1906 | 51488 | 14042 | 37446 |
 | Võ Hoàng Nguyên | 32770 | 10651 | 22119 |
 | BrianTrac | 29403 | 16002 | 13401 |
@@ -74,10 +74,10 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | 22120209 | 3949 | 2280 | 1669 |
 | eNKay | 509 | 24 | 485 |
 | Phạm Gia Khiêm | 292 | 31 | 261 |
+| NKhank11 | 487 | 231 | 256 |
 | khoapda | 154 | 12 | 142 |
 | TPL | 1275 | 1182 | 93 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
-| NKhank11 | 1 | 1 | 0 |
 | Nguyễn Vĩnh Lương | 1089 | 3349 | -2260 |
 | PhamGiaKhiem | 42378 | 48072 | -5694 |
 
@@ -93,7 +93,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | phatnguyen1906 | 23481 | 17575 | 5906 |
 | eNKay | 3952 | 157 | 3795 |
 | mainhatnam219 | 2747 | 432 | 2315 |
-| NKhank11 | 1191 | 317 | 874 |
+| NKhank11 | 1381 | 344 | 1037 |
 | BrianTrac | 468 | 6 | 462 |
 | 22120186 | 405 | 30 | 375 |
 | kiin21 | 146 | 79 | 67 |
@@ -138,9 +138,9 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 |---|--:|--:|--:|
 | kiin21 | 548 | 192 | 356 |
 | khoapda | 115 | 1 | 114 |
-| Nguyễn Anh Hào | 17 | 0 | 17 |
+| Nguyễn Anh Hào | 27 | 7 | 20 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
-| s360-cicd | 6 | 6 | 0 |
+| s360-cicd | 7 | 7 | 0 |
 
 </details>
 

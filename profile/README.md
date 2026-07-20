@@ -39,7 +39,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | 22120157 | 10837 | 1506 | 9331 |
 | eNKay | 30697 | 23864 | 6833 |
 | PhamGiaKhiem | 5909 | 1168 | 4741 |
-| Pham Dao Anh Khoa | 7594 | 2938 | 4656 |
+| Pham Dao Anh Khoa | 7600 | 2939 | 4661 |
 | khiempham123 | 2742 | 162 | 2580 |
 | BrianTrac | 3109 | 544 | 2565 |
 | Huynh Tan Loc | 5428 | 2899 | 2529 |
@@ -159,7 +159,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
 | khoapda | 382 | 43 | 339 |
-| kiin21 | 177 | 1 | 176 |
+| kiin21 | 186 | 5 | 181 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
 
 </details>

@@ -56,7 +56,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 
 </details>
 
-<details><summary><b>s360-frontend</b> — 20 authors</summary>
+<details><summary><b>s360-frontend</b> — 21 authors</summary>
 
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
@@ -78,6 +78,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | khoapda | 154 | 12 | 142 |
 | TPL | 1275 | 1182 | 93 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
+| kiin21 | 47 | 37 | 10 |
 | Nguyễn Vĩnh Lương | 1089 | 3349 | -2260 |
 | PhamGiaKhiem | 42378 | 48072 | -5694 |
 
@@ -109,7 +110,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
 | khoapda | 54807 | 13863 | 40944 |
-| kiin21 | 291 | 45 | 246 |
+| kiin21 | 303 | 46 | 257 |
 | copilot-swe-agent[bot] | 64 | 1 | 63 |
 | Pham Dao Anh Khoa | 577 | 671 | -94 |
 
@@ -140,7 +141,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | khoapda | 115 | 1 | 114 |
 | Nguyễn Anh Hào | 27 | 7 | 20 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
-| s360-cicd | 12 | 12 | 0 |
+| s360-cicd | 13 | 13 | 0 |
 
 </details>
 

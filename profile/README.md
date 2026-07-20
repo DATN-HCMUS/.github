@@ -52,7 +52,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | Nguyen Phan Duc Khai | 12 | 178 | -166 |
 | Huỳnh Tấn Lộc | 2634 | 6192 | -3558 |
 | 22120186 | 11884 | 16053 | -4169 |
-| Nguyễn Anh Hào | 63560 | 79049 | -15489 |
+| Nguyễn Anh Hào | 63711 | 79232 | -15521 |
 
 </details>
 
@@ -60,7 +60,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
-| Nguyễn Anh Hào | 152144 | 79005 | 73139 |
+| Nguyễn Anh Hào | 152503 | 79076 | 73427 |
 | phatnguyen1906 | 51488 | 14042 | 37446 |
 | Võ Hoàng Nguyên | 32770 | 10651 | 22119 |
 | BrianTrac | 29403 | 16002 | 13401 |
@@ -121,7 +121,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 |---|--:|--:|--:|
 | Võ Hoàng Nguyên | 38538 | 8011 | 30527 |
 | notDuyLam | 6307 | 976 | 5331 |
-| Nguyễn Anh Hào | 5147 | 508 | 4639 |
+| Nguyễn Anh Hào | 5468 | 509 | 4959 |
 | TNMonster | 3340 | 467 | 2873 |
 | Huỳnh Công Minh | 1564 | 319 | 1245 |
 | eNKay | 390 | 9 | 381 |
@@ -140,7 +140,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | khoapda | 115 | 1 | 114 |
 | Nguyễn Anh Hào | 27 | 7 | 20 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
-| s360-cicd | 7 | 7 | 0 |
+| s360-cicd | 8 | 8 | 0 |
 
 </details>
 

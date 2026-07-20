@@ -39,7 +39,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | 22120157 | 10837 | 1506 | 9331 |
 | eNKay | 30697 | 23864 | 6833 |
 | PhamGiaKhiem | 5909 | 1168 | 4741 |
-| Pham Dao Anh Khoa | 7600 | 2939 | 4661 |
+| Pham Dao Anh Khoa | 7606 | 2950 | 4656 |
 | khiempham123 | 2742 | 162 | 2580 |
 | BrianTrac | 3109 | 544 | 2565 |
 | Huynh Tan Loc | 5428 | 2899 | 2529 |
@@ -69,7 +69,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | notDuyLam | 14834 | 2174 | 12660 |
 | 22120157 | 29348 | 17786 | 11562 |
 | 22120197 | 13984 | 5232 | 8752 |
-| khiempham123 | 5961 | 2390 | 3571 |
+| khiempham123 | 6056 | 2463 | 3593 |
 | Huỳnh Công Minh | 11579 | 9688 | 1891 |
 | 22120209 | 3949 | 2280 | 1669 |
 | eNKay | 509 | 24 | 485 |
@@ -136,11 +136,11 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
-| kiin21 | 548 | 192 | 356 |
+| kiin21 | 592 | 192 | 400 |
 | khoapda | 115 | 1 | 114 |
 | Nguyễn Anh Hào | 27 | 7 | 20 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
-| s360-cicd | 10 | 10 | 0 |
+| s360-cicd | 12 | 12 | 0 |
 
 </details>
 

@@ -69,7 +69,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | notDuyLam | 14834 | 2174 | 12660 |
 | 22120157 | 29348 | 17786 | 11562 |
 | 22120197 | 13984 | 5232 | 8752 |
-| khiempham123 | 6056 | 2463 | 3593 |
+| khiempham123 | 7272 | 2975 | 4297 |
 | Huỳnh Công Minh | 11579 | 9688 | 1891 |
 | 22120209 | 3949 | 2280 | 1669 |
 | NKhank11 | 866 | 357 | 509 |
@@ -141,7 +141,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | khoapda | 115 | 1 | 114 |
 | Nguyễn Anh Hào | 27 | 7 | 20 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
-| s360-cicd | 14 | 14 | 0 |
+| s360-cicd | 15 | 15 | 0 |
 
 </details>
 

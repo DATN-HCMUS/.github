@@ -46,7 +46,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | copilot-swe-agent[bot] | 2370 | 1 | 2369 |
 | 22120197 | 2234 | 208 | 2026 |
 | phatnguyen1906 | 2064 | 275 | 1789 |
-| NKhank11 | 981 | 94 | 887 |
+| NKhank11 | 1017 | 98 | 919 |
 | kiin21 | 636 | 138 | 498 |
 | Anwirismee | 1 | 12 | -11 |
 | Nguyen Phan Duc Khai | 12 | 178 | -166 |
@@ -73,8 +73,8 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | Huỳnh Công Minh | 11579 | 9688 | 1891 |
 | 22120209 | 3949 | 2280 | 1669 |
 | eNKay | 509 | 24 | 485 |
+| NKhank11 | 615 | 318 | 297 |
 | Phạm Gia Khiêm | 292 | 31 | 261 |
-| NKhank11 | 487 | 231 | 256 |
 | khoapda | 154 | 12 | 142 |
 | TPL | 1275 | 1182 | 93 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
@@ -94,7 +94,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | phatnguyen1906 | 23481 | 17575 | 5906 |
 | eNKay | 3952 | 157 | 3795 |
 | mainhatnam219 | 2747 | 432 | 2315 |
-| NKhank11 | 1381 | 344 | 1037 |
+| NKhank11 | 1624 | 432 | 1192 |
 | BrianTrac | 468 | 6 | 462 |
 | 22120186 | 405 | 30 | 375 |
 | kiin21 | 146 | 79 | 67 |

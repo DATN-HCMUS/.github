@@ -69,7 +69,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | notDuyLam | 14834 | 2174 | 12660 |
 | 22120157 | 29348 | 17786 | 11562 |
 | 22120197 | 13984 | 5232 | 8752 |
-| khiempham123 | 7272 | 2975 | 4297 |
+| khiempham123 | 7281 | 2986 | 4295 |
 | Huỳnh Công Minh | 11579 | 9688 | 1891 |
 | 22120209 | 3949 | 2280 | 1669 |
 | NKhank11 | 866 | 357 | 509 |
@@ -97,7 +97,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | NKhank11 | 1527 | 407 | 1120 |
 | BrianTrac | 468 | 6 | 462 |
 | 22120186 | 405 | 30 | 375 |
-| kiin21 | 146 | 79 | 67 |
+| kiin21 | 148 | 84 | 64 |
 | Pham Dao Anh Khoa | 34 | 1 | 33 |
 | PhamGiaKhiem | 20436 | 21329 | -893 |
 | khoapda | 41017 | 42460 | -1443 |
@@ -110,7 +110,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
 | khoapda | 54807 | 13863 | 40944 |
-| kiin21 | 303 | 46 | 257 |
+| kiin21 | 423 | 93 | 330 |
 | copilot-swe-agent[bot] | 64 | 1 | 63 |
 | Pham Dao Anh Khoa | 577 | 671 | -94 |
 

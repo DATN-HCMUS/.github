@@ -47,7 +47,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | 22120197 | 2234 | 208 | 2026 |
 | phatnguyen1906 | 2064 | 275 | 1789 |
 | NKhank11 | 1216 | 147 | 1069 |
-| kiin21 | 748 | 171 | 577 |
+| kiin21 | 754 | 171 | 583 |
 | Anwirismee | 1 | 12 | -11 |
 | Nguyen Phan Duc Khai | 12 | 178 | -166 |
 | Huỳnh Tấn Lộc | 2634 | 6192 | -3558 |
@@ -110,7 +110,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
 | khoapda | 54807 | 13863 | 40944 |
-| kiin21 | 508 | 94 | 414 |
+| kiin21 | 521 | 94 | 427 |
 | copilot-swe-agent[bot] | 64 | 1 | 63 |
 | Pham Dao Anh Khoa | 577 | 671 | -94 |
 
@@ -137,11 +137,11 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
-| kiin21 | 1062 | 202 | 860 |
+| kiin21 | 1345 | 202 | 1143 |
 | khoapda | 115 | 1 | 114 |
 | Nguyễn Anh Hào | 27 | 7 | 20 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
-| s360-cicd | 16 | 16 | 0 |
+| s360-cicd | 17 | 17 | 0 |
 
 </details>
 

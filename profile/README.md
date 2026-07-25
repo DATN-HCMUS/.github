@@ -40,14 +40,14 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | eNKay | 30697 | 23864 | 6833 |
 | PhamGiaKhiem | 5909 | 1168 | 4741 |
 | Pham Dao Anh Khoa | 7606 | 2950 | 4656 |
-| khiempham123 | 2742 | 162 | 2580 |
+| khiempham123 | 3551 | 270 | 3281 |
 | BrianTrac | 3109 | 544 | 2565 |
 | Huynh Tan Loc | 5428 | 2899 | 2529 |
 | copilot-swe-agent[bot] | 2370 | 1 | 2369 |
 | 22120197 | 2234 | 208 | 2026 |
 | phatnguyen1906 | 2064 | 275 | 1789 |
 | NKhank11 | 1216 | 147 | 1069 |
-| kiin21 | 636 | 138 | 498 |
+| kiin21 | 748 | 171 | 577 |
 | Anwirismee | 1 | 12 | -11 |
 | Nguyen Phan Duc Khai | 12 | 178 | -166 |
 | Huỳnh Tấn Lộc | 2634 | 6192 | -3558 |
@@ -110,7 +110,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
 | khoapda | 54807 | 13863 | 40944 |
-| kiin21 | 423 | 93 | 330 |
+| kiin21 | 508 | 94 | 414 |
 | copilot-swe-agent[bot] | 64 | 1 | 63 |
 | Pham Dao Anh Khoa | 577 | 671 | -94 |
 
@@ -137,11 +137,11 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
-| kiin21 | 592 | 192 | 400 |
+| kiin21 | 1062 | 202 | 860 |
 | khoapda | 115 | 1 | 114 |
 | Nguyễn Anh Hào | 27 | 7 | 20 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
-| s360-cicd | 15 | 15 | 0 |
+| s360-cicd | 16 | 16 | 0 |
 
 </details>
 

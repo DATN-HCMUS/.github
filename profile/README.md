@@ -84,15 +84,16 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 
 </details>
 
-<details><summary><b>s360-web-admin</b> — 14 authors</summary>
+<details><summary><b>s360-web-admin</b> — 15 authors</summary>
 
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
 | Nguyễn Anh Hào | 95259 | 39826 | 55433 |
 | 22120157 | 20471 | 7703 | 12768 |
-| 22120197 | 13065 | 829 | 12236 |
-| eNKay | 6540 | 172 | 6368 |
+| 22120197 | 12462 | 452 | 12010 |
 | phatnguyen1906 | 23481 | 17575 | 5906 |
+| eNKay | 3952 | 157 | 3795 |
+| Nguyen Khai | 3185 | 386 | 2799 |
 | mainhatnam219 | 2747 | 432 | 2315 |
 | NKhank11 | 1527 | 407 | 1120 |
 | BrianTrac | 468 | 6 | 462 |
@@ -142,7 +143,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | khoapda | 115 | 1 | 114 |
 | Nguyễn Anh Hào | 27 | 7 | 20 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
-| s360-cicd | 22 | 22 | 0 |
+| s360-cicd | 23 | 23 | 0 |
 | khiempham123 | 2 | 2 | 0 |
 
 </details>

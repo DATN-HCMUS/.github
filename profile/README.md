@@ -152,7 +152,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
 | khoapda | 649 | 226 | 423 |
-| kiin21 | 228 | 94 | 134 |
+| kiin21 | 228 | 105 | 123 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
 
 </details>

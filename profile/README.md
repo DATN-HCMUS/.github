@@ -97,7 +97,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | NKhank11 | 1527 | 407 | 1120 |
 | BrianTrac | 468 | 6 | 462 |
 | 22120186 | 405 | 30 | 375 |
-| kiin21 | 148 | 84 | 64 |
+| kiin21 | 150 | 84 | 66 |
 | Pham Dao Anh Khoa | 34 | 1 | 33 |
 | PhamGiaKhiem | 20436 | 21329 | -893 |
 | khoapda | 41017 | 42460 | -1443 |
@@ -142,7 +142,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | khoapda | 115 | 1 | 114 |
 | Nguyễn Anh Hào | 27 | 7 | 20 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
-| s360-cicd | 21 | 21 | 0 |
+| s360-cicd | 22 | 22 | 0 |
 | khiempham123 | 2 | 2 | 0 |
 
 </details>

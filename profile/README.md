@@ -47,7 +47,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | 22120197 | 2234 | 208 | 2026 |
 | phatnguyen1906 | 2064 | 275 | 1789 |
 | NKhank11 | 1216 | 147 | 1069 |
-| kiin21 | 767 | 171 | 596 |
+| kiin21 | 880 | 184 | 696 |
 | Anwirismee | 1 | 12 | -11 |
 | Nguyen Phan Duc Khai | 12 | 178 | -166 |
 | Huỳnh Tấn Lộc | 2634 | 6192 | -3558 |
@@ -134,7 +134,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 
 </details>
 
-<details><summary><b>s360-gitops</b> — 5 authors</summary>
+<details><summary><b>s360-gitops</b> — 6 authors</summary>
 
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
@@ -142,7 +142,8 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | khoapda | 115 | 1 | 114 |
 | Nguyễn Anh Hào | 27 | 7 | 20 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
-| s360-cicd | 19 | 19 | 0 |
+| khiempham123 | 2 | 2 | 0 |
+| s360-cicd | 20 | 20 | 0 |
 
 </details>
 

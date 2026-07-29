@@ -37,10 +37,10 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | Võ Hoàng Nguyên | 31914 | 7436 | 24478 |
 | TNMonster | 14558 | 2897 | 11661 |
 | 22120157 | 10837 | 1506 | 9331 |
-| eNKay | 30697 | 23864 | 6833 |
+| eNKay | 31430 | 24053 | 7377 |
 | PhamGiaKhiem | 5909 | 1168 | 4741 |
 | Pham Dao Anh Khoa | 7606 | 2950 | 4656 |
-| khiempham123 | 4358 | 407 | 3951 |
+| khiempham123 | 4485 | 414 | 4071 |
 | BrianTrac | 3109 | 544 | 2565 |
 | Huynh Tan Loc | 5428 | 2899 | 2529 |
 | copilot-swe-agent[bot] | 2370 | 1 | 2369 |
@@ -62,18 +62,18 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 |---|--:|--:|--:|
 | Nguyễn Anh Hào | 152503 | 79076 | 73427 |
 | phatnguyen1906 | 51488 | 14042 | 37446 |
-| Võ Hoàng Nguyên | 32770 | 10651 | 22119 |
+| Võ Hoàng Nguyên | 34777 | 11373 | 23404 |
 | BrianTrac | 29403 | 16002 | 13401 |
 | Huynh Cong Minh | 25367 | 12381 | 12986 |
 | mainhatnam219 | 14948 | 2271 | 12677 |
 | notDuyLam | 14834 | 2174 | 12660 |
 | 22120157 | 29348 | 17786 | 11562 |
-| 22120197 | 13984 | 5232 | 8752 |
+| eNKay | 9735 | 52 | 9683 |
+| 22120197 | 14119 | 5261 | 8858 |
 | khiempham123 | 7281 | 2986 | 4295 |
-| Huỳnh Công Minh | 11579 | 9688 | 1891 |
+| Huỳnh Công Minh | 12935 | 10727 | 2208 |
 | 22120209 | 3949 | 2280 | 1669 |
 | NKhank11 | 866 | 357 | 509 |
-| eNKay | 509 | 24 | 485 |
 | Phạm Gia Khiêm | 292 | 31 | 261 |
 | khoapda | 154 | 12 | 142 |
 | TPL | 1275 | 1182 | 93 |
@@ -90,9 +90,9 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 |---|--:|--:|--:|
 | Nguyễn Anh Hào | 95259 | 39826 | 55433 |
 | 22120157 | 20471 | 7703 | 12768 |
-| 22120197 | 12462 | 452 | 12010 |
+| 22120197 | 13065 | 829 | 12236 |
+| eNKay | 6540 | 172 | 6368 |
 | phatnguyen1906 | 23481 | 17575 | 5906 |
-| eNKay | 3952 | 157 | 3795 |
 | mainhatnam219 | 2747 | 432 | 2315 |
 | NKhank11 | 1527 | 407 | 1120 |
 | BrianTrac | 468 | 6 | 462 |
@@ -116,18 +116,19 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 
 </details>
 
-<details><summary><b>s360-ai</b> — 10 authors</summary>
+<details><summary><b>s360-ai</b> — 11 authors</summary>
 
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
-| Võ Hoàng Nguyên | 38538 | 8011 | 30527 |
+| Võ Hoàng Nguyên | 38995 | 8144 | 30851 |
 | notDuyLam | 6307 | 976 | 5331 |
 | Nguyễn Anh Hào | 5468 | 509 | 4959 |
+| eNKay | 3071 | 9 | 3062 |
 | TNMonster | 3340 | 467 | 2873 |
 | Huỳnh Công Minh | 1564 | 319 | 1245 |
-| eNKay | 390 | 9 | 381 |
 | minh huynh | 229 | 31 | 198 |
 | BrianTrac | 151 | 1 | 150 |
+| minh.hc-kit | 109 | 2 | 107 |
 | khoapda | 20 | 0 | 20 |
 | kiin21 | 0 | 51 | -51 |
 

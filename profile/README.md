@@ -47,11 +47,11 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | 22120197 | 2234 | 208 | 2026 |
 | phatnguyen1906 | 2064 | 275 | 1789 |
 | NKhank11 | 1216 | 147 | 1069 |
-| kiin21 | 951 | 189 | 762 |
 | Anwirismee | 1 | 12 | -11 |
 | Nguyen Phan Duc Khai | 12 | 178 | -166 |
 | Huỳnh Tấn Lộc | 2634 | 6192 | -3558 |
 | 22120186 | 11884 | 16053 | -4169 |
+| kiin21 | 987 | 9222 | -8235 |
 | Nguyễn Anh Hào | 63711 | 79232 | -15521 |
 
 </details>
@@ -153,7 +153,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | Author | Added | Removed | Net LoC |
 |---|--:|--:|--:|
 | khoapda | 649 | 226 | 423 |
-| kiin21 | 261 | 109 | 152 |
+| kiin21 | 271 | 112 | 159 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
 
 </details>

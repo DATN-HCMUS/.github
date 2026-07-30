@@ -38,8 +38,8 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | TNMonster | 14558 | 2897 | 11661 |
 | 22120157 | 10837 | 1506 | 9331 |
 | eNKay | 31430 | 24053 | 7377 |
+| Pham Dao Anh Khoa | 9230 | 4367 | 4863 |
 | PhamGiaKhiem | 5909 | 1168 | 4741 |
-| Pham Dao Anh Khoa | 7606 | 2950 | 4656 |
 | khiempham123 | 4576 | 437 | 4139 |
 | BrianTrac | 3109 | 544 | 2565 |
 | Huynh Tan Loc | 5428 | 2899 | 2529 |
@@ -143,7 +143,7 @@ Connects students with jobs via AI matching, profile management, and an HR recru
 | khoapda | 115 | 1 | 114 |
 | Nguyễn Anh Hào | 27 | 7 | 20 |
 | Pham Dao Anh Khoa | 11 | 0 | 11 |
-| s360-cicd | 27 | 27 | 0 |
+| s360-cicd | 28 | 28 | 0 |
 | khiempham123 | 2 | 2 | 0 |
 
 </details>
